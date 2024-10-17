@@ -9,7 +9,7 @@ I am a passionate second-year student in embedded systems and Internet Of Things
 - 🔭 I'm currently pursuing my Bachelor's degree in Embedded Systems and Internet Of Things at IFRI-UAC 👩🏽‍🎓❤️.
 - 🌱 I’m currently developing skills in embedded systems and IOT 👩🏽‍🔧🤍.
 - 👯 I’m looking to collaborate on C++ projects as well IOT projects.
-- 📫 How to reach me: My LinkedIn profil ➡ [https://www.linkedin.com/in/p%C3%A9niel-ahouansou-43b1482a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
+- 📫 How to reach me: penielesperatahouansou@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm passionate about using technology, robotics🤖, and AI to solve real-world challenges, and I love playing basketball on weekends🏀❤️.
   
